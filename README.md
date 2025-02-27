@@ -11,9 +11,11 @@ When you press the coin button, the coin memory device will store the fact that 
 #How to add delay to the circuit?
 To add a delay to the citcuit you will need something called capacitor that look like this:  ![image](https://github.com/user-attachments/assets/69056ed1-fe68-4664-8be9-6ce946765368)
 
-A capacitor is an electrical component that stores energy, it has 2 terminals. When the current flows to the capacitor, the capacitor will charge, this ability is called capacitance which is measure in farads. One farad is a very large value, so we tipically rate capacitors in microfarads (uF).
+A capacitor is an electrical component that stores energy, it has 2 terminals. When the current flows to the capacitor, the capacitor will charge, this ability is called capacitance which is measure in farads. One farad is a very large value, so we tipically rate capacitors in microfarads (uF). When the capacitor is not charged it acts like a short circuit. Once the capacitor 
 
 ![image](https://github.com/user-attachments/assets/8b5547f4-a5f9-4cfc-8b57-6dd849b00688)
+
+
 
 
 
