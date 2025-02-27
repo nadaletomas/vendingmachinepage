@@ -18,9 +18,17 @@ A capacitor is an electrical component that stores energy, it has 2 terminals. W
 
 ![image](https://github.com/user-attachments/assets/8b5547f4-a5f9-4cfc-8b57-6dd849b00688)
 
+# Example:
+In the image below you can see everything we need to create a Breadboard Vending Machine. Wires, LEDs, capacitor, resistors, gates and buttons.
+![image](https://github.com/user-attachments/assets/fcea6603-677a-477f-9682-a34abd1e70d2)
+
+
 # How it looks in a real circuit?
 
+![B913B281-9F14-4D68-B2D2-F9A96272B8E6](https://github.com/user-attachments/assets/411af652-400f-452f-9281-85f6ce354279)
 
+![3802066A-AFFE-4FBB-A6CB-BE674CB236AE](https://github.com/user-attachments/assets/6085468d-4769-4734-b650-41e734c3c97e)
 
+![858B6658-266F-417D-A4A1-8873905C62B7](https://github.com/user-attachments/assets/493a8217-9e9f-4cd6-9249-8649a6676ebf)
 
 
