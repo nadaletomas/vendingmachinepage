@@ -32,4 +32,10 @@ In the image below you can see everything we need to create a Breadboard Vending
 
 ![858B6658-266F-417D-A4A1-8873905C62B7](https://github.com/user-attachments/assets/493a8217-9e9f-4cd6-9249-8649a6676ebf)
 
+# References
+
+Breadboard Vending Machine. Redshelf reader. (n.d.). [https://platform.virdocs.com/read/1541540/16/#/4/252/36/2,/1:0,/1:0 ](url)
+
+Storr, W. (2024, January 18). Introduction to capacitors, capacitance and charge. Basic Electronics Tutorials. [https://www.electronics-tutorials.ws/capacitor/cap_1.html](url) 
+
 
